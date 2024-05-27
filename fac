@@ -21,3 +21,4 @@ class Test {
 						+ factorial(5)); 
 	} 
 }
+Factorial of 5 is 120
